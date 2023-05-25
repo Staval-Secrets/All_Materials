@@ -8,7 +8,7 @@
 ### * Данный репозиторий есть только у следующих людей:
 ### * У [Меня](https://vk.com/staval), [Ксюши](https://vk.com/id36072397), [Саши](https://vk.com/litirnntir)
 ### * [Вовы](https://vk.com/i_need_eat_pls), [Кирилла](https://vk.com/feelpainagain), [Ани](https://vk.com/ank.aaaaaaaaa)
-###  * [Сони](https://vk.com/shlnsn), [Марго](https://vk.com/mlavrukk), ...
+###  * [Сони](https://vk.com/shlnsn), [Марго](https://vk.com/mlavrukk), [Матвея](https://vk.com/matosik1011)
 
 ## Возможно я добавлю кого-нибудь еще сюда, но пока все
 ## В случае утечки данного репозитория за пределы написанных выше людей, он будет безвозвратно удален
